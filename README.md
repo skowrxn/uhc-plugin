@@ -1,5 +1,7 @@
 # uhc-plugin
 
+[![CodeFactor](https://www.codefactor.io/repository/github/skowrxn/uhc-plugin/badge/main)](https://www.codefactor.io/repository/github/skowrxn/uhc-plugin/overview/main)
+
 Wtyczka do serwera gry Minecraft, opartego na silniku Spigot w wersji 1.8.8. Wprowadza na serwerze tryb rozgrywki „Ultra Hardcorde” (skrót UHC), polegający na rywalizacji graczy poprzez własnoręczne zdobycie surowców i walkę z pozostałymi uczestnikami na losowo wygenerowanej mapie. 
 
 Komendy, dostępne dla administratorów z uprawnieniem "*uhc.staff*":
